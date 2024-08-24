@@ -1,0 +1,17 @@
+{
+  "name": "use-highlighter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "packageManager": "pnpm@8.10.2",
+  "scripts": {
+    "build": "turbo build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "turbo": "^1.13.2"
+  }
+}
